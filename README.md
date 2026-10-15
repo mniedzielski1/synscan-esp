@@ -72,3 +72,7 @@ Gotowe obrazy są w `bin/`. Po starcie pojawia się sieć `SynScan_WiFi_1234` (E
 - [emard/esp32synscan](https://github.com/emard/esp32synscan): pinout RJ12, parametry linii
 - [IceInSpace: kabel RJ12-RJ45](https://www.iceinspace.com.au/forum/showthread.php?t=169962): mapowanie pinów
 - [Cloudy Nights: DIY WiFi adapter](https://www.cloudynights.com/forums/topic/656206-diy-wifi-adapter-for-skywatcher-telescope-mounts/page/3/)
+
+## Licencja
+
+[GPL-3.0](LICENSE). Firmware jest oparty na [vlaate/SkyWatcherWiFi](https://github.com/vlaate/SkyWatcherWiFi) (GPL-3.0), z poprawkami z wątku na Cloudy Nights i zmianami dla Star Discovery.
